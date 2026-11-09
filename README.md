@@ -1,4 +1,4 @@
-# Fashion AI: Roman Urdu Fashion Discovery System
+# Libaas Lab: Roman Urdu Fashion Discovery System
 
 An AI-assisted fashion discovery system for Pakistani shoppers. It  matches them to ethnic wear products, tags items by color/tone, checks current trend signals, and can generate a short spoken editorial summary about a style or trend.
 
